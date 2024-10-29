@@ -1,0 +1,21 @@
+.banner {
+	background-image: linear-gradient(-225deg, rgba(0, 0, 0, 0.8) 0%, rgba(0, 0, 0, 0.5) 10%), url(../../images/bresil.jpeg);
+	background-size: cover;
+	background-position: center;
+	padding: 0px;
+	background-height: 100%;
+	background-width: 100%;
+	box-sizing: border-box;
+}
+.banner h1 {
+	font-size: 50px;
+    color: white;
+    margin: 0px;
+}
+
+.banner h2 {
+	font-size: 30px;
+	font-weight: lighter;
+	opacity: 0.8;
+	color: white;
+}
